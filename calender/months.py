@@ -8,7 +8,7 @@ def greet():
 
 
 class Event:
-    day = 5
+    day = 10
     week = 6
 
     def is_event(self):
